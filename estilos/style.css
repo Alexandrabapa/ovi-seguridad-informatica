@@ -7,7 +7,7 @@ body {
 }
 .example {
     position:relative;
-    width:70px;
+    width:700px;
     height:382px;
     border:0px #000 solid;
     margin:0px auto;
@@ -50,9 +50,9 @@ body {
     border:1px solid #FFF;
     color:#FFF;
     display:block;
-    font-size:11px;
+    font-size:12px;
     line-height:35px;
-    padding:5px 32px;
+    padding:5px 35px;
     text-decoration:none;
     transition:0.5s;
 }
