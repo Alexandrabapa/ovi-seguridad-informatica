@@ -43,6 +43,7 @@ body {
 }
 
 .nav li a {
+    width:700px;
     -moz-transition:0.5s;
     -o-transition:0.5s;
     -webkit-transition:0.5s;
@@ -52,7 +53,7 @@ body {
     display:block;
     font-size:11px;
     line-height:35px;
-    padding:5px 28px;
+    padding:5px 32px;
     text-decoration:none;
     transition:0.5s;
 }
